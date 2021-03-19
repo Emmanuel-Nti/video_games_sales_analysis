@@ -19,4 +19,5 @@
 - `Critic_Score` (maximum of 100)
 - `User_Score` (maximum of 10)
 - `Rating (ESRB)`
+
 Data for 2016 may be incomplete.
