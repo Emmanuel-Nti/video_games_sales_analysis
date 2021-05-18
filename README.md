@@ -3,7 +3,7 @@
 
 | Project Description | Libraries Used | Source of Data |
 | :---------------------- | :---------------------- | :---------------------- | 
-| As a data analyst at a bank, I am tasked to prepare a report for a bank’s loan division. The main objective of the project is to find out if a customer’s marital status, loan purpose, income level, and number of children has an impact on whether they will default on a loan. My bank already has some data on customers’ credit worthiness. | *pandas*, *matplotlib.pyplot*, *numpy*, *Scipy*, *seaborn*, *missingno*,*io*, *requests*| Practicum by Yandex |
+| I work for the online store Ice, which sells video games all over the world. User and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales are available from open sources. I need to identify patterns that determine whether a game succeeds or not. This will allow me to spot potential big winners and plan advertising campaigns; imagining that it’s December 2016 and I'm planning a campaign for 2017. | *pandas*, *matplotlib.pyplot*, *numpy*, *Scipy*, *seaborn*, *missingno*,*io*, *requests*| Practicum by Yandex |
 
 
 ## Description of Data
