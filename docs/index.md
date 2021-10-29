@@ -7,7 +7,7 @@
 
 ## How I Approached the Project
 - Importation of the data and libraries
-- Preprocessed the data and carried out exploratory data analysis (categorized the products with machine learning algorithm)
+- Preprocessed the data 
 - Analyzed the data
 - Created user profile for each region
 - Formulated and tested statistical hypotheses
