@@ -49,4 +49,5 @@ The PS2 platform is the most profitable plaform, the PCFX platform is the least 
 - Scipy 
 - Seaborn
 - Matplotlib
+- Requests
 
