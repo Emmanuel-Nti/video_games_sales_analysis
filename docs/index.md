@@ -18,7 +18,7 @@ The number of games released in a year peaked in 2008 and significantly started 
    <img src = "images/lollypop.PNG" width = "1000", height = "450">
  </p>
 
-## Profitable and Non-profitable platforms.
+## Profitable and Non-profitable Platforms.
 The PS2 platform is the most profitable plaform, the PCFX platform is the least non profitable plaform.
 <p align ="center">
    <img src = "images/platforms.PNG" width = "1000", height = "450">
@@ -31,7 +31,7 @@ The PS2 platform is the most profitable plaform, the PCFX platform is the least 
 - Atari 2600 platform existed for the longest number of years (35 years)
 - Since 2010, the most profitable platforms are PS3, 3DS, DS, PC, PS4, Wii, X360, and XOne. In sum total, PS3 and X360 are leading in sales.
 - In 2016, all plaforms had experienced their peak sales and started shrinking, but PS4, XOne, and 3DS were leading in sales.
-- Since 2010, average sales on various platforms differed but not significantly different especially among the highest performing plaforms as average sales were all below $1 million. PS4 had the highest average sales of about $0.80 million, and GBA platform had about USD 0.05 million sales (the lowest).
+- Since 2010, average sales on various platforms differed but not significantly different especially among the highest performing plaforms as average sales were all below $1 million. PS4 had the highest average sales of about $0.80 million, and GBA platform had about $0.05 million sales (the lowest).
 - There is positive correlation between review of plaforms and sale of games.
 - Generally, from 2010, Action genres have been the most profitable considering sum of total yearly sales. However,on average, the most profitable genre is Shooter. The least profitable game genre is Puzzle.
 - PS3 and X360 platforms dominate sales in Europe and North American markets.
