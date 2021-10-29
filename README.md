@@ -1,5 +1,5 @@
 # Video Games Sales Analysis
-
+## [Project Summary]( https://emmanuel-nti.github.io/video_games_sales_analysis/)
 
 | Project Description | Libraries Used | Source of Data |
 | :---------------------- | :---------------------- | :---------------------- | 
