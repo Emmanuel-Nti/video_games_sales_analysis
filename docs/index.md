@@ -15,13 +15,13 @@
 ## Number of Games Released in a Year
 The number of games released in a year peaked in 2008 and significantly started falling from 2010.
 <p align ="center">
-   <img src = "images/lollypop.PNG" width = "1000", height = "450">
+   <img src = "images/lollypop.PNG">
  </p>
 
 ## Profitable and Non-profitable Platforms.
 The PS2 platform is the most profitable plaform, the PCFX platform is the least non profitable plaform.
 <p align ="center">
-   <img src = "images/platforms.PNG" width = "1000", height = "450">
+   <img src = "images/platforms.PNG" >
  </p>
  
 ## General Findings
