@@ -3,6 +3,7 @@
    <img src = "images/video.jpg" width="1000" 
      height="450">
  </p>
+ 
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/video_games_sales_analysis/blob/master/Video_Games_Sales_Analysis_Nti.ipynb) 
 
 ## How I Approached the Project
